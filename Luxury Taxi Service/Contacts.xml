@@ -1,0 +1,76 @@
+<PossibleContacts xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <GangContacts />
+  <GunDealerContacts>
+    <GunDealerContact>
+      <Name>Underground Guns</Name>
+      <Index>0</Index>
+      <Active>true</Active>
+      <DialTimeout>3000</DialTimeout>
+      <RandomizeDialTimeout>true</RandomizeDialTimeout>
+      <IconName>CHAR_BLANK_ENTRY</IconName>
+      <IsDefault>false</IsDefault>
+      <FullNumber />
+      <Number />
+    </GunDealerContact>
+  </GunDealerContacts>
+  <EmergencyServicesContact>
+    <Name>911 - Emergency Services</Name>
+    <Index>0</Index>
+    <Active>true</Active>
+    <DialTimeout>3000</DialTimeout>
+    <RandomizeDialTimeout>true</RandomizeDialTimeout>
+    <IconName>CHAR_CALL911</IconName>
+    <IsDefault>true</IsDefault>
+    <FullNumber>911</FullNumber>
+    <Number>911</Number>
+  </EmergencyServicesContact>
+  <CorruptCopContact>
+    <Name>Officer Friendly</Name>
+    <Index>0</Index>
+    <Active>true</Active>
+    <DialTimeout>3000</DialTimeout>
+    <RandomizeDialTimeout>true</RandomizeDialTimeout>
+    <IconName>CHAR_BLANK_ENTRY</IconName>
+    <IsDefault>false</IsDefault>
+    <FullNumber />
+    <Number />
+  </CorruptCopContact>
+  <KillerContacts />
+  <VehicleExporterContacts>
+    <VehicleExporterContact>
+      <Name>Vehicle Exports</Name>
+      <Index>0</Index>
+      <Active>true</Active>
+      <DialTimeout>3000</DialTimeout>
+      <RandomizeDialTimeout>true</RandomizeDialTimeout>
+      <IconName>CHAR_BLANK_ENTRY</IconName>
+      <IsDefault>false</IsDefault>
+      <FullNumber />
+      <Number />
+    </VehicleExporterContact>
+  </VehicleExporterContacts>
+  <TaxiServiceContacts>
+    <TaxiServiceContact>
+      <Name>Downtown Cab Co.</Name>
+      <Index>0</Index>
+      <Active>true</Active>
+      <DialTimeout>3000</DialTimeout>
+      <RandomizeDialTimeout>true</RandomizeDialTimeout>
+      <IconName>CHAR_TAXI</IconName>
+      <IsDefault>true</IsDefault>
+      <FullNumber>3235555555</FullNumber>
+      <Number>5555555</Number>
+    </TaxiServiceContact>
+	<TaxiServiceContact>
+      <Name>Pegasus Luxury</Name>
+      <Index>0</Index>
+      <Active>true</Active>
+      <DialTimeout>3000</DialTimeout>
+      <RandomizeDialTimeout>true</RandomizeDialTimeout>
+      <IconName>CHAR_PEGASUS_DELIVERY</IconName>
+      <IsDefault>true</IsDefault>
+      <FullNumber>3231914152</FullNumber>
+      <Number>1914152</Number>
+    </TaxiServiceContact>
+  </TaxiServiceContacts>
+</PossibleContacts>

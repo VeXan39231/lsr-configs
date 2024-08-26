@@ -1,0 +1,104 @@
+<PossibleOrganizations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <GeneralOrganizations>
+    <Organization>
+      <ID>VEHEXP</ID>
+      <FullName>Vehicle Exports</FullName>
+      <ShortName>Vehicle Exports</ShortName>
+      <MemberName>Exporter</MemberName>
+      <Description />
+      <BannerImagePath />
+      <ContactName>Vehicle Exports</ContactName>
+      <ColorPrefix>~w~</ColorPrefix>
+      <ColorString>White</ColorString>
+      <LicensePlatePrefix />
+      <HeadDataGroupID>AllHeads</HeadDataGroupID>
+      <PersonnelID />
+      <LessLethalWeaponsID />
+      <SideArmsID />
+      <LongGunsID />
+      <VehiclesID />
+    </Organization>
+    <Organization>
+      <ID>UNDRGUN</ID>
+      <FullName>Underground Guns</FullName>
+      <ShortName>Underground Guns</ShortName>
+      <MemberName>Gun Dealer</MemberName>
+      <Description />
+      <BannerImagePath />
+      <ContactName>Underground Guns</ContactName>
+      <ColorPrefix>~r~</ColorPrefix>
+      <ColorString>Red</ColorString>
+      <LicensePlatePrefix />
+      <HeadDataGroupID>AllHeads</HeadDataGroupID>
+      <PersonnelID />
+      <LessLethalWeaponsID />
+      <SideArmsID />
+      <LongGunsID />
+      <VehiclesID />
+    </Organization>
+  </GeneralOrganizations>
+  <TaxiFirms>
+    <TaxiFirm>
+      <ID>DTCAB</ID>
+      <FullName>Downtown Cab Co.</FullName>
+      <ShortName>Downtown Cab Co.</ShortName>
+      <MemberName>Cabbie</MemberName>
+      <Description>In transit since 1922</Description>
+      <BannerImagePath>stores\downtownvanilla.png</BannerImagePath>
+      <ContactName>Downtown Cab Co.</ContactName>
+      <ColorPrefix>~y~</ColorPrefix>
+      <ColorString>Yellow</ColorString>
+      <LicensePlatePrefix>DT </LicensePlatePrefix>
+      <HeadDataGroupID>AllHeads</HeadDataGroupID>
+      <PersonnelID>TaxiDrivers</PersonnelID>
+      <LessLethalWeaponsID>MeleeWeapons</LessLethalWeaponsID>
+      <SideArmsID>TaxiSidearms</SideArmsID>
+      <LongGunsID>TaxiLongGuns</LongGunsID>
+      <VehiclesID>TaxiVehicles</VehiclesID>
+      <IsDefault>true</IsDefault>
+      <BaseFare>10</BaseFare>
+      <PricePerMile>5</PricePerMile>
+      <FastSpeedFee>20</FastSpeedFee>
+      <CrazySpeedFee>100</CrazySpeedFee>
+      <FightPercentage>35</FightPercentage>
+      <FightPolicePercentage>5</FightPolicePercentage>
+      <AlwaysFightPolicePercentage>1</AlwaysFightPolicePercentage>
+      <CallPolicePercentage>35</CallPolicePercentage>
+      <CallPoliceForSeriousCrimesPercentage>70</CallPoliceForSeriousCrimesPercentage>
+      <PercentageWithLongGuns>5</PercentageWithLongGuns>
+      <PercentageWithSidearms>30</PercentageWithSidearms>
+      <PercentageWithMelee>10</PercentageWithMelee>
+    </TaxiFirm>
+	<TaxiFirm>
+      <ID>PGLIMO</ID>
+      <FullName>Pegasus Luxury Transport</FullName>
+      <ShortName>Pegasus Luxury</ShortName>
+      <MemberName>Chauffeur</MemberName>
+      <Description>We get it, you're rich.</Description>
+      <BannerImagePath>stores\pegasus.png</BannerImagePath>
+      <ContactName>Pegasus Luxury</ContactName>
+      <ColorPrefix>~w~</ColorPrefix>
+      <ColorString>White</ColorString>
+      <LicensePlatePrefix></LicensePlatePrefix>
+      <HeadDataGroupID>MafiaHeads</HeadDataGroupID>
+      <PersonnelID>LimoPeds</PersonnelID>
+      <LessLethalWeaponsID></LessLethalWeaponsID>
+      <SideArmsID>BestSidearms</SideArmsID>
+      <LongGunsID></LongGunsID>
+      <VehiclesID>LimoVehicles</VehiclesID>
+      <IsDefault>true</IsDefault>
+      <BaseFare>100</BaseFare>
+      <PricePerMile>100</PricePerMile>
+      <FastSpeedFee>200</FastSpeedFee>
+      <CrazySpeedFee>400</CrazySpeedFee>
+      <FightPercentage>35</FightPercentage>
+      <FightPolicePercentage>5</FightPolicePercentage>
+      <AlwaysFightPolicePercentage>1</AlwaysFightPolicePercentage>
+      <CallPolicePercentage>35</CallPolicePercentage>
+      <CallPoliceForSeriousCrimesPercentage>70</CallPoliceForSeriousCrimesPercentage>
+      <PercentageWithLongGuns>0</PercentageWithLongGuns>
+      <PercentageWithSidearms>100</PercentageWithSidearms>
+      <PercentageWithMelee>0</PercentageWithMelee>
+    </TaxiFirm>
+  </TaxiFirms>
+</PossibleOrganizations>
