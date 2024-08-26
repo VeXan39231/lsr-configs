@@ -1,2 +1,2 @@
 # lsr-configs
-List of community created LSR configs.
+List of community created Los Santos Red configs.
